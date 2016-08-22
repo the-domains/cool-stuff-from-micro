@@ -1,4 +1,3 @@
-layout_spectrum: 0.26103158947080374
 typography_spectrum: 0.18520345888100564
 color:
   brandStrength: 0.154309693723917
@@ -6,9 +5,11 @@ color:
   saturation: 0.6468631036113948
   rhythmicContrast: 0.7225509688723832
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+layout_spectrum: 0.26103158947080374
 name: Cool Stuff from Micro
+title: Home Security
