@@ -1,0 +1,14 @@
+layout_spectrum: 0.26103158947080374
+typography_spectrum: 0.18520345888100564
+color:
+  brandStrength: 0.154309693723917
+  lightness: 0.023612790275365114
+  saturation: 0.6468631036113948
+  rhythmicContrast: 0.7225509688723832
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+name: Cool Stuff from Micro
